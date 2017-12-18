@@ -1,0 +1,8 @@
+title: Lisa
+description: "Coputer-assisted liver surgery. "
+google_analytics: UA-56187890-1
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
